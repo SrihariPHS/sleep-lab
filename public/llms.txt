@@ -1,0 +1,22 @@
+# SleepLab Baby
+
+SleepLab Baby is an evidence-based guide to baby and toddler sleep products: white noise machines, sleep sacks, blackout curtains, baby monitors, sleep-training books and toddler wake-up lamps.
+
+Every recommendation is checked against peer-reviewed sleep research and safe-sleep (SIDS) guidelines before it is published. Products we cannot defend are cut, regardless of affiliate status.
+
+## Key pages
+
+- [Best White Noise Machines for Babies (2026)](best-white-noise-machine.html)
+- [Best Sleep Sacks & Wearable Blankets (2026)](best-sleep-sacks.html)
+- [Best Blackout Curtains for Nurseries (2026)](best-blackout-curtains.html)
+- [Best Baby Monitors with Sleep Tracking (2026)](best-baby-monitors.html)
+- [Best Sleep Training Books & Methods (2026)](best-sleep-training-books.html)
+- [Best Wake-Up Lamps for Toddlers (2026)](best-wake-up-lamps.html)
+- [Home](index.html)
+
+## Facts about this site
+
+- Topic: baby and toddler sleep products
+- Audience: new and expecting parents, primarily Australia and the US
+- Method: research-first, evaluation-based, hard narrowing
+- Last updated: 2026-08-15
